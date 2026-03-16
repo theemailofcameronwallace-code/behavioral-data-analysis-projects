@@ -18,9 +18,7 @@ Example factors used:
 - Randomized variance to simulate game unpredictability
 
 ## Tools Used
-- Python
-- Pandas
-- NumPy
+-Excel
 - Random simulations
 
 ## Example Outcome
