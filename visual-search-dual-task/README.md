@@ -21,7 +21,7 @@ Behavioral dataset including:
 
 ## Tools Used
 Excel  
-R  
+RStudio  
 PsychoPy  
 Data cleaning  
 Data visualization  
