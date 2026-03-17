@@ -13,4 +13,7 @@ Behavioral experiment examining how working memory load influences visual search
 ### March Madness Prediction Model
 Statistical model that predicts NCAA tournament outcomes using seed-based win probabilities, historical upset rates, and randomized variance to simulate realistic tournament results.
 
+### MLB Pitch-by-Pitch Data Analysis
+Data analysis project exploring MLB pitch-by-pitch datasets to identify trends in pitching strategy, player performance, and game dynamics using statistical analysis and visualization.
+
 These samples summarize the goals, datasets, tools, and insights from each project in a format that is easier to review than standalone documents.
