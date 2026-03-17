@@ -29,6 +29,5 @@ The model generates simulated tournament brackets and identifies:
 - Most probable Final Four combinations
 
 ## Future Improvements
-- Integrate KenPom or efficiency metrics
 - Monte Carlo tournament simulations
-- Team offensive/defensive ratings
+- Integrate team offensive/defensive ratings
